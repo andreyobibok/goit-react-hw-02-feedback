@@ -10,6 +10,7 @@
     height: 50px;
     outline: none;
     border: none;
+    cursor: pointer;
 }
 
 .good:hover {
@@ -23,6 +24,7 @@
     height: 50px;
     outline: none;
     border: none;
+    cursor: pointer;
 }
 
 .neutral:hover {
@@ -36,6 +38,7 @@
     height: 50px;
     outline: none;
     border: none;
+    cursor: pointer;
 }
 
 .bad:hover {
